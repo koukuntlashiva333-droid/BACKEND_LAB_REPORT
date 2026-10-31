@@ -7,7 +7,7 @@
 ---
 
 ## Live Link
-Not deployed yet
+https://backend-lab-report.onrender.com
 
 ---
 
